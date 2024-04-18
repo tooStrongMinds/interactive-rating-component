@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://interactive-rating-component-alpha-beige.vercel.app/))
 
 ### Built with
 
